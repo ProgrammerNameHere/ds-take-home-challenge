@@ -169,3 +169,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# ignore the Data folder to not leak sensitive data
+data/
